@@ -1,0 +1,19 @@
+header{
+    background-color: antiquewhite; /* cor de fundo*/
+max-width: 1000px; /* largura maxima RESPOSIVIDADE-RESPONSIVO*/
+margin: auto; /*Centraliza*/
+height:300px ;
+}
+
+div#boneca{
+    background-color: blue; /* cor de fundo*/
+    width:100% ; /* fazer a div ocupar 100% da largura da HEADER*/
+    height: 400px; /* altura*/
+    background-image:url('borboleta-monarca-california-3-conexao-planeta.jpg'); /* colocar a imagem de fundo*/
+    background-size:cover ; /* ajusta o tamanho*/
+    background-repeat: no-repeat; /* nao repetir a imagem*/
+    background-position:center ; /* posiciona a imagem no centro*/
+    color: antiquewhite;
+    /*yrmporario*/
+    font-family: Georgia, 'Times New Roman', Times, serif;/* mudar a cor da fonte*/
+}
